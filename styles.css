@@ -15,7 +15,6 @@ hr {
 	margin: 2rem 0rem;
 }
 
-
 /* Spaces */
 
 .padding-md {
@@ -112,6 +111,10 @@ hr {
 .hero .hero-heading {
 	text-align: center;
 	color: var(--dark-gray);
+}
+
+.btn-center {
+	text-align: center;
 }
 
 .hero .hero-heading .heading-inverted {
